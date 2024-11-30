@@ -2,6 +2,7 @@
 <img src="/pictures/my_pic.jpg" width="200" align="center">
 
 <img src="/pictures/email-icon.jpg" width="40" align="center">Osher.ben-nun@weizmann.ac.il 
+===
 Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11
 ---
 
