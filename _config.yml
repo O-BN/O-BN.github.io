@@ -1,5 +1,5 @@
 # Site settings
-title:  Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11 taught by [Gábor Szabó]("https://szabgab.com/")
+title:  "Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11 taught by" [Gábor Szabó]("https://szabgab.com/")
 description: #
 baseurl: #" " # Leave blank if deploying to the root (e.g., username.github.io), otherwise specify subpath (e.g., /project-name)
 url: "https://github.com/O-BN" # Your GitHub Pages URL
