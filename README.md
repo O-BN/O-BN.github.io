@@ -2,7 +2,7 @@
 Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11 taught by [Gábor Szabó](https://szabgab.com/)
 
 ---
-<img src="/pictures/my_pic.jpg" width="200" align="left" style="border-radius: 50%; margin-right: 20px;">
+<img src="/pictures/my_pic.jpg" width="200" align="left" style="border-radius: 50%; margin-right: 10px;">
 
 ### About me:
 [<img src="/pictures/email-icon.jpg" width="20" align="center">](Osher.ben-nun@weizmann.ac.il) | [<img src="/pictures/github-icon.png" width="20" align="center">](https://github.com/O-BN)
