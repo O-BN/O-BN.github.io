@@ -2,6 +2,7 @@
 Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11 taught by [Gábor Szabó](https://szabgab.com/)
 
 ---
+
 <img src="/pictures/my_pic.jpg" width="200" align="left" style="border-radius: 50%; margin-right: 10px;">
 
 ### About me:
