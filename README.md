@@ -1,6 +1,3 @@
----
-
-
 ![<img src="/pictures/my_pic.jpg" width="150" align="left" style="border-radius: 50%; margin-right: 10px;">]
 
 ### About me:
