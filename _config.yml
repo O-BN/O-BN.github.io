@@ -6,8 +6,8 @@ url: "https://github.com/O-BN" # Your GitHub Pages URL
 
 # Author settings
 author: #" "
-  name: "osher Ben-Nun"
-  email: "Osher.ben-nun@weizmann.ac.il"
+  name: osher Ben-Nun
+  email: Osher.ben-nun@weizmann.ac.il
 # Theme settings
 theme: minima # Replace with your chosen Jekyll theme
 plugins:
