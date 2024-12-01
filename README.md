@@ -15,5 +15,5 @@ I'm a PhD student from Jakub (Kobi) [Abramson's lab](https://www.weizmann.ac.il/
 
   In my spare time, when I'm not in the lab, I prefer to spend time in the garden taking care of plants.
   
-  <img src="/pictures/my_garden.jpg" width="300" align="center">
+  <img src="/pictures/my_garden.jpeg" width="300" align="center">
   
