@@ -4,10 +4,10 @@ Welcome to my page as part of the Weizmann basic programming skills (Python) 202
 ---
 
 
-<img src="/pictures/my_pic.jpg" width="150" align="left" style="border-radius: 40%; margin-right: 50px;">
+<img src="/pictures/my_pic.jpg" width="150" align="left" style="border-radius: 50%; margin-right: 10px;">
 
 ### About me:
-[<img src="/pictures/email-icon.jpg" width="40" align="center">](Osher.ben-nun@weizmann.ac.il) |  [<img src="/pictures/github-icon.png" width="20" align="center">](https://github.com/O-BN) | [<img src="/pictures/linkedin-icon.png" width="20" align="center">](https://www.linkedin.com/in/osher-ben-nun-a9a9b913b/)
+[<img src="/pictures/email-icon.jpg" width="40" align="center">](Osher.ben-nun@weizmann.ac.il)|  [<img src="/pictures/github-icon.png" width="20" align="center">](https://github.com/O-BN) | [<img src="/pictures/linkedin-icon.png" width="20" align="center">](https://www.linkedin.com/in/osher-ben-nun-a9a9b913b/)
 
 I'm a PhD student from Jakub (Kobi) [Abramson's lab](https://www.weizmann.ac.il/dept/irb/abramson/).
 
