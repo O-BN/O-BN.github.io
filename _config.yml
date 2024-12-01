@@ -1,6 +1,6 @@
 # Site settings
 title: Osher Ben-Nun GitHub page
-description: Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11 taught by [Gábor Szabó]("https://szabgab.com/")
+description: this page is part of the Weizmann basic programming skills (Python) 2024.11 taught by Gábor Szabó
 baseurl: #" " # Leave blank if deploying to the root (e.g., username.github.io), otherwise specify subpath (e.g., /project-name)
 url: "https://github.com/O-BN" # Your GitHub Pages URL
 
