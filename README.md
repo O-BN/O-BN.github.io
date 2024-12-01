@@ -11,6 +11,8 @@ I'm a PhD student from Jakub (Kobi) [Abramson's lab](https://www.weizmann.ac.il/
   In my research, I'm trying to characterize unit cells in the immune system called extra thymic Aire expressing cells (eTACs).
 My PhD focus on three aspects of these cells:
 ---
+
+
 1.	Molecular and cellular characterization of RORγt+ eTACs 
 Project Goal: eTAC detailed molecular, cellular, and spatial characterization remains incomplete. Our hypothesis, based on preliminary results and published data, indicates that RORγt+ eTACs consist of several molecularly and likely functionally distinct subsets. To this end, we will apply advanced technologies and single-cell "omics" approaches to achieve a thorough molecular, cellular, and spatial analysis.
 
@@ -27,5 +29,5 @@ Project Goal: We aim to further understand the molecular and structural differen
 
   ---
   
-# Assignments collection :
+### Assignments collection :
 You can visit my course assignments [repository](https://github.com/O-BN/python-assignments) to see my work and share your comments. 
