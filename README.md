@@ -1,7 +1,7 @@
 ---
 
 
-![]<img src="/pictures/my_pic.jpg" width="150" align="left" style="border-radius: 50%; margin-right: 10px;">
+![<img src="/pictures/my_pic.jpg" width="150" align="left" style="border-radius: 50%; margin-right: 10px;">]
 
 ### About me:
 [<img src="/pictures/email-icon.jpg" width="40" align="center">](Osher.ben-nun@weizmann.ac.il)|  [<img src="/pictures/github-icon.png" width="20" align="center">](https://github.com/O-BN) | [<img src="/pictures/linkedin-icon.png" width="20" align="center">](https://www.linkedin.com/in/osher-ben-nun-a9a9b913b/)
