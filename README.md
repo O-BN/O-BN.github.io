@@ -5,9 +5,12 @@ Welcome to my page as part of the Weizmann basic programming skills (Python) 202
 <img src="/pictures/my_pic.jpg" width="200" align="left" style="border-radius: 50%; margin-right: 20px;">
 
 ### About me:
-[<img src="/pictures/email-icon.jpg" width="40" align="center">](Osher.ben-nun@weizmann.ac.il) | [<img src="/pictures/github-icon.jpg" width="40" align="center">](https://github.com/O-BN)
+[<img src="/pictures/email-icon.jpg" width="40" align="center">](Osher.ben-nun@weizmann.ac.il) | [<img src="/pictures/github-icon.png" width="40" align="center">](https://github.com/O-BN)
+
 I'm a PhD student from Jakub (Kobi) [Abramson's lab](https://www.weizmann.ac.il/dept/irb/abramson/).
+
   In my research, I'm trying to characterize unit cells in the immune system called extra thymic Aire expressing cells (eTACs).
+
 My PhD focus on three aspects of these cells:
 
 ---
