@@ -1,11 +1,11 @@
 # Site settings
-title: " "
+title: #" "
 description: Welcome to my page as part of the Weizmann basic programming skills (Python) 2024.11 taught by [Gábor Szabó]("https://szabgab.com/")
-baseurl: " " # Leave blank if deploying to the root (e.g., username.github.io), otherwise specify subpath (e.g., /project-name)
+baseurl: #" " # Leave blank if deploying to the root (e.g., username.github.io), otherwise specify subpath (e.g., /project-name)
 url: "https://github.com/O-BN" # Your GitHub Pages URL
 
 # Author settings
-author:" "
+author: #" "
   name: "osher Ben-Nun"
   email: "Osher.ben-nun@weizmann.ac.il"
 # Theme settings
