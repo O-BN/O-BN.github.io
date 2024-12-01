@@ -14,4 +14,5 @@ I'm a PhD student from Jakub (Kobi) [Abramson's lab](https://www.weizmann.ac.il/
   In my research, I'm trying to characterize unit cells in the immune system.
 
   In my spare time, when I'm not in the lab, I prefer to spend time in the garden taking care of plants.
+  <img src="/pictures/my_garden.jpg" width="300" align="center">
   
